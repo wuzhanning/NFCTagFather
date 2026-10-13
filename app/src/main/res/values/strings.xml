@@ -1,8 +1,3 @@
 <resources>
     <string name="app_name">NFCTagFather</string>
-    <string name="welcome">Welcome to NFCTagFather</string>
-    <string name="status_message">%1$s\n\n%2$s</string>
-    <string name="nfc_available">NFC is enabled. Tag reading and writing will be added in a future version.</string>
-    <string name="nfc_disabled">NFC is disabled. Enable it in device settings.</string>
-    <string name="nfc_unavailable">This device does not support NFC.</string>
 </resources>
