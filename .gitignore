@@ -1,0 +1,11 @@
+# Local operating system files
+.DS_Store
+Thumbs.db
+
+# Local secrets and environment overrides
+.env
+.env.*
+!.env.example
+
+# Local editor history
+.history/
